@@ -1,2 +1,4 @@
 # CRUD-Essentia
-Teste Essentia Agosto/2018
+- IDE: Eclipse EE
+- DB: mysql
+- Projeto, Testes e Evidencias no Arquivo essenti-teste.rar
